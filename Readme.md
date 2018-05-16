@@ -1,13 +1,6 @@
-<img src="logo.png" alt="用于 nodejs 的 koa 中间件框架"/>
+# Koa 2.x 中文文档
 
-  [![gitter][gitter-image]][gitter-url]
-  [![NPM version][npm-image]][npm-url]
-  [![build status][travis-image]][travis-url]
-  [![Test coverage][coveralls-image]][coveralls-url]
-  [![OpenCollective Backers][backers-image]](#backers)
-  [![OpenCollective Sponsors][sponsors-image]](#sponsors)
-  
-> 此项目同步自 [koajs](https://github.com/koajs) / [koa](https://github.com/koajs/koa) 项目中的  docs. 除特殊情况, 将保持每月一次的同步频率.
+此项目同步自 [koajs](https://github.com/koajs) / [koa](https://github.com/koajs/koa) 项目中的  docs. 除特殊情况, 将保持每月一次的同步频率.
 
 Koa 通过 node.js 实现了一个十分具有表现力的 HTTP 中间件框架，力求让 Web 应用开发和 API 使用更加地愉快。Koa 的中间件之间按照编码顺序在栈内依次执行，允许您执行操作并向下传递请求（downstream），之后过滤并逆序返回响应（upstream）。
 

@@ -1,6 +1,6 @@
 # 请求(Request)
 
-Koa `Request ` 对象是在 node 的 vanilla 请求对象之上的抽象，提供了诸多对 HTTP 服务器开发有用的功能。
+Koa `Request ` 对象是在 node 原生请求对象之上的抽象，提供了诸多对 HTTP 服务器开发有用的功能。
 
 ## API
 
